@@ -51,7 +51,7 @@ mise à jour) sont écrites en clair : l'import les accepte.
 
 - Le **module 1** installé : table « Congés », identifiant « Jeton Open WebUI », workflow « Outils
   RH pour Open WebUI », connexion « n8n RH » et modèle « Assistant congés » (dépôt
-  [`clic-par-clic-integration-n8n-01-assistant-mcp`](https://github.com/guilhem-/clic-par-clic-integration-n8n-01-assistant-mcp)).
+  [`clic-par-clic-integration-n8n-01-assistant-mcp`](https://github.com/guilhembon/clic-par-clic-integration-n8n-01-assistant-mcp)).
 - **n8n 2.x** (tourné sur 2.41.6, édition Community), un compte membre suffit.
 - **Open WebUI 0.11** (tourné sur 0.11.3), un compte administrateur et son jeton ; un compte pour
   le manager.
@@ -123,7 +123,7 @@ arrive dans le canal ; l'envoi du formulaire passe la ligne à « Validé ».
 ## Série
 
 - Module précédent : **Un assistant Open WebUI qui agit dans n8n**
-  ([`clic-par-clic-integration-n8n-01-assistant-mcp`](https://github.com/guilhem-/clic-par-clic-integration-n8n-01-assistant-mcp)).
+  ([`clic-par-clic-integration-n8n-01-assistant-mcp`](https://github.com/guilhembon/clic-par-clic-integration-n8n-01-assistant-mcp)).
 - C'est le dernier module de la série. Pour aller plus loin : la série « Clic par clic » **Créer un
   service d'IA : le studio 3D**.
 
